@@ -12,8 +12,8 @@ Source: Relato (2015-2016) Composition: 373,663 company links Type of Links:
 It contains links between businesses pulled from the web. It contains 373,663 links between companies, of the types "partnership" (one company listed on another company's partnership page), "customer" (one company listed on another company's example customer page), "competitor" (co-bidders on AdWords above some limit), "investment" (a company listed on a VC's website), "supplier" (the inverse of the "customer" type. This dataset was used to drive both a lead generation system where metrics on the graph fed into a classification for leads (lead/no lead) and a market visualization system (a force directed layout of markets and their segments).
 
 ## Data Structure
-Below are images depicting the initial structure of the data.
-Initial Data Overview
+#### ![photo1](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/16ab0703-0cdd-4e86-bb4a-42b50489ef93)
+#### ![photo2](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/29382fb2-5354-4a4e-be77-49fcbeaf8047)
 
 ## Objectives
 The objectives of this analysis are to:
