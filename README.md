@@ -15,19 +15,28 @@ It contains links between businesses pulled from the web. It contains 373,663 li
 Below are images depicting the initial structure of the data.
 Initial Data Overview
 
-Objectives
+# Objectives
 The objectives of this analysis are to:
 1	Analyze how companies relate within a large network.
 2	Identify key players and influential entities using measures of centrality.
 3	Explore potential applications of this data in market analysis and lead generation.
 Exploring Measures of Centrality
-We employed several centrality measures to understand different aspects of influence and connectivity within the network:
+
+## We employed several centrality measures to understand different aspects of influence and connectivity within the network:
+
 •	Degree Centrality: Identifies the most connected companies.
+
 •	Betweenness Centrality: Pinpoints companies that frequently act as bridges across different business clusters.
+
 •	Eigenvector Centrality: Assesses influence within influential circles, enhanced by net worth data.
-Results and Visualizations
+
+# Results and Visualizations
 The following images and descriptions provide a visual summary of the findings from our analysis:
-Network Overview
+
+### Network Overview
+![overall](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/a3f7a730-2ee9-4f18-80ca-7bfe967c0a2f)
+
+
 
 Degree Centrality Distribution
 
