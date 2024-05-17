@@ -1,10 +1,17 @@
 
-B2B Relationships Analysis from Business Graph Data
-Introduction
+# B2B Relationships Analysis from Business Graph Data
+
+
+
+# Introduction
 This report explores the intricate web of business-to-business relationships through a comprehensive analysis of a business graph, utilizing data collected by the startup Relato during 2015-2016. The dataset contains over 373,000 links representing various types of business interactions, such as partnerships, customer-supplier dynamics, and competitive engagements.
-Dataset Description
+
+# Dataset Description
 Source: Relato (2015-2016) Composition: 373,663 company links Type of Links: Partnerships, customer, supplier, competitor, investment Unique Identifier: Domain names
-Data Structure
+
+It contains links between businesses pulled from the web. It contains 373,663 links between companies, of the types "partnership" (one company listed on another company's partnership page), "customer" (one company listed on another company's example customer page), "competitor" (co-bidders on AdWords above some limit), "investment" (a company listed on a VC's website), "supplier" (the inverse of the "customer" type. This dataset was used to drive both a lead generation system where metrics on the graph fed into a classification for leads (lead/no lead) and a market visualization system (a force directed layout of markets and their segments).
+
+# Data Structure
 Below are images depicting the initial structure of the data.
 Initial Data Overview
 
