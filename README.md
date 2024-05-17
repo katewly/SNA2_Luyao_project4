@@ -36,20 +36,16 @@ The following images and descriptions provide a visual summary of the findings f
 ### Network Overview
 
 #### ![overall coding](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/af31f6f9-42df-493d-a0ba-144deff4d5cc)
-/katewly/SNA2_Luyao_project4/assets/167985824/02d79560-378b-4633-9e2b-3b860c0955c7)
 
 ## ![overall](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/a3f7a730-2ee9-4f18-80ca-7bfe967c0a2f)
 
 #### ![counts](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/fc90934d-2574-4bab-b6ea-b76b81465c57)
 #### ![distribution](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/c52ff060-4858-4ca4-b056-640a6ac18322)
-#### ![lan](https://github.com
-#### ![lan coding](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/e20d18bc-aad1-4af3-8316-245a1ba6b1dc)
 
-###  Centrality 
+
 #### ![centrality](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/7110df02-37d0-4bfb-8fbd-45269acae9e6)
 
-### Betweenness and Eigenvector Centrality
-Specific Network Analysis (Non-supplier Links)
+
 #### ![non-supplier network](https://github.com/katewly/SNA2_Luyao_project4/assets/167985824/22af7b1b-33fe-4945-a239-a7ed9611bf27)
 
 
