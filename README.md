@@ -13,7 +13,11 @@ It contains links between businesses pulled from the web. It contains 373,663 li
 
 ## Data Structure
 Initial Data
+
+
 Number of nodes: 53326
+
+
 Number of edges: 251280
 
 ## Objectives
