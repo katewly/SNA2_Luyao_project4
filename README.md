@@ -61,8 +61,14 @@ The analysis of the business graph highlighted the following insights:
 
 
 •	Degree Centrality: A few companies hold a significant number of direct connections, making them central hubs within the network.
+
+
 •	Betweenness Centrality: Companies acting as bridges are critical for the flow of resources and information, holding strategic positions that could be leveraged in negotiations or partnership developments.
+
+
 •	Eigenvector Centrality: Companies that are influential among other influential companies often control or significantly impact market dynamics.
+
+
 These findings are supported by the visual distributions and network graphs, which illustrate the non-uniformity in company connectivity and influence.
 
 ## Conclusion
